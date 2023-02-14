@@ -1,6 +1,5 @@
 import React from "react";
 import { atom, useAtom } from "jotai";
-import "./App.css";
 
 const countAtom1 = atom(0);
 const countAtom2 = atom(0);
